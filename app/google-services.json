@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "646362400028",
+    "project_id": "access-learning-63ab9",
+    "storage_bucket": "access-learning-63ab9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646362400028:android:50018f6f8a6f1877f7a6d9",
+        "android_client_info": {
+          "package_name": "com.example.androidappfinalpreview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGmOnQcp8l5QakapPjFZKWv7vT_JW2g4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
